@@ -8,3 +8,4 @@ Les bannières de projet sont des éléments graphiques présents au début du f
 
 - La dimension des bannières est de **640x320** (pixels).
 - Les bannières sont semblables graphiquement.
+- Les coins des images sont arrondis de rayon 30 px
