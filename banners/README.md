@@ -13,7 +13,7 @@ Les bannières de projet sont des éléments graphiques présents au début du f
 ## Normalisation des bannières
 
 Le script bash `normalize.sh` permet de normaliser la forme des bannières (dimension et coins arrondis).
-***Lancer la commande suivante à chaque modification des bannières :**
+**Lancer la commande suivante à chaque modification des bannières :**
 ```shell
 ./normalize.sh
 ```
