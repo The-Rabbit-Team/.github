@@ -7,5 +7,13 @@ Les bannières de projet sont des éléments graphiques présents au début du f
 ## Propriétés des bannières
 
 - La dimension des bannières est de **640x320** (pixels).
-- Les bannières sont semblables graphiquement.
+- Les bannières sont toutes semblables graphiquement.
 - Les coins des images sont arrondis de rayon 30 px
+
+## Normalisation des bannières
+
+Le script bash `normalize.sh` permet de normaliser la forme des bannières (dimension et coins arrondis).
+***Lancer la commande suivante à chaque modification des bannières :*
+```shell
+./normalize.sh
+```
